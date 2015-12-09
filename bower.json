@@ -1,0 +1,30 @@
+{
+  "name": "work",
+  "version": "0.0.0",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "install": {
+    "path": {
+      "css": "public/stylesheets",
+      "js": "public/javascripts",
+      "html": "public/html",
+      "less": "public/stylesheets"
+    }
+  },
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "angular": "~1.4.7",
+    "bootstrap": "~3.3.5",
+    "less": "less.js#~2.5.3",
+    "angular-bootstrap": "~0.14.3",
+    "jui": "~1.4.1",
+    "angular-resource": "~1.4.8",
+    "angular-bootstrap-checkbox": "~0.3.1"
+  }
+}
